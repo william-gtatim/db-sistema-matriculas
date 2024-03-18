@@ -10,5 +10,19 @@
   ],
   "profile": {
     "name": "typicode"
-  }
+  },
+  "usuarios": [
+    {
+      "id": 1, 
+      "email": "williamtatim91@gmail.com",
+      "senha": "1", 
+      "funcao": "administrador"
+    },
+    {
+      "id": 2,
+      "email": "aluno@gmail.com",
+      "senha": "1",
+      "funcao": "aluno"
+    }
+  ]
 }
